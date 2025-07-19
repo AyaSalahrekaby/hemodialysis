@@ -108,10 +108,9 @@ The full Arduino code is available in `hemodialysis_safety.ino`.
 ---
 
 ## 📸 Demo
-_Add your photos and videos here._
+<img width="809" height="614" alt="Image" src="https://github.com/user-attachments/assets/72717da0-cba8-422b-9bc2-06b9cd124c73" />
+
 
 ---
 
-## 📜 License
-This project is released under the **MIT License**.
 
