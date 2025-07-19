@@ -77,11 +77,6 @@ Install libraries via **Arduino IDE → Sketch → Include Library → Manage Li
 
 ---
 
-## 🔌 Circuit Diagram
-![Circuit Diagram](circuit-diagram.png)
-
----
-
 ## 🔄 Flowchart
 ![Flowchart](flowchart.png)
 
@@ -89,6 +84,8 @@ Install libraries via **Arduino IDE → Sketch → Include Library → Manage Li
 
 ## 🖼 OLED Display Screens
 - **Startup Logo**
+<img width="224" height="227" alt="Image" src="https://github.com/user-attachments/assets/caaaa3f0-10d5-4ff1-8d59-584005e0518e" />
+
 - Alerts:
   - “Change in Temperature”
   - “Blood Leakage”
