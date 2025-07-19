@@ -73,7 +73,7 @@ Install libraries via **Arduino IDE → Sketch → Include Library → Manage Li
 ---
 
 ## 📊 System Block Diagram
-![Block Diagram](block-diagram.png)
+<img width="1496" height="579" alt="Image" src="https://github.com/user-attachments/assets/212b49ac-f43a-4520-8a9a-3c4c7944a4b7" />
 
 ---
 
